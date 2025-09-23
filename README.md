@@ -58,7 +58,6 @@
   <a href="Solana-address" target="_blank">
     <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/sol.png" width="20"/>
   </a>
-  <strong>SOL Address:</strong> <code>HFaGAh5UFaPX3v14kh3f3GqZXA2vUzJ7jkC7BYcnDAWa</code>
+  SOL Address:  <code>HFaGAh5UFaPX3v14kh3f3GqZXA2vUzJ7jkC7BYcnDAWa</code>
 </p>
 <!-- Signature -->
-⭐️ From <a href="https://github.com/jolchmo" target="_blank">jolchmo</a>

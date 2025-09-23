@@ -4,7 +4,7 @@
 <h2> Hello there! I'm lch. 👋 </h2>
 
 
-<img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/JPG_to_GIF_Animation.gif"/>
+<img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/JPG_to_GIF_Animation~1.gif"/>
 
 <!-- About Me Section -->
 <h3> 🤖 About Me </h3>
@@ -49,7 +49,6 @@
 <p>
   If you find my projects helpful or just want to support my work, feel free to buy me a coffee! Your support is greatly appreciated and helps me dedicate more time to open-source contributions.
 </p>
-
 
 
 <p>

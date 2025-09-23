@@ -4,7 +4,7 @@
 <h2> Hello there! I'm lch. 👋 </h2>
 
 
-<img src="https://imgbed-lch.oss-cn-guangzhou.aliyuncs.com/img/JPG_to_GIF_Animation.gif"/>
+<img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/JPG_to_GIF_Animation.gif"/>
 
 <!-- About Me Section -->
 <h3> 🤖 About Me </h3>
@@ -19,8 +19,8 @@
 <h3>🛠 Tech Stack & Tools</h3>
 
 - 💻 &nbsp; **Programming Languages:** Python, C++
-- 🌐 &nbsp; **Robotics & AI:** ROS/ROS2 | PyTorch | MoveIt | Gazebo | OpenCV | LangChain | TensorFlow
-- 🛢 &nbsp; **Data & Backend:** BeautifulSoup | Scrapy | FastAPI | Docker | PostgreSQL | MySQL
+- 🌐 &nbsp; **Robotics & AI:** ROS/ROS2 | PyTorch | MoveIt | Gazebo | OpenCV | LangChain
+- 🛢 &nbsp; **Data & Backend:** | Docker | BeautifulSoup | requests |  Dify | PostgreSQL
 - 🔧 &nbsp; **Development Tools:** VS Code | Git | GitHub | Jupyter Notebook | Linux (Ubuntu)
 
 <br>
@@ -50,12 +50,13 @@
   If you find my projects helpful or just want to support my work, feel free to buy me a coffee! Your support is greatly appreciated and helps me dedicate more time to open-source contributions.
 </p>
 
+
+
 <p>
   <a href="Solana-address" target="_blank">
-    <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png" width="20" style="vertical-align: middle; margin-right: 5px;" />
+    <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/solana-sol-logo-png_seeklogo-423095.png" width="20" style="vertical-align: middle; margin-right: 5px;" />
   </a>
   <strong>SOL Address:</strong> <code>HFaGAh5UFaPX3v14kh3f3GqZXA2vUzJ7jkC7BYcnDAWa</code>
 </p>
-
 <!-- Signature -->
 ⭐️ From [jolchmo](https://github.com/jolchmo)

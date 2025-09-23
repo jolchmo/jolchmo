@@ -55,7 +55,7 @@
 
 
 <p>
-  <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/solana-sol-logo-png_seeklogo-423095.png" width="20" style="vertical-align: middle; margin-right: 5px;" />
+  <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/sol.png" width="20" style="vertical-align: middle; margin-right: 5px;" />
   <strong>SOL Address:</strong> <code>HFaGAh5UFaPX3v14kh3f3GqZXA2vUzJ7jkC7BYcnDAWa</code>
 </p>
 

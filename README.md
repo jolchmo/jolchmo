@@ -3,9 +3,6 @@
 <!-- Greeting with an engaging GIF -->
 <h2> Hello there! I'm lch. 👋 </h2>
 
-
-<img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/1758643813343_c4FhCqyRMBPYBUosgtG-n.png"/>
-
 <!-- About Me Section -->
 <h3> 🤖 About Me </h3>
 
@@ -18,7 +15,7 @@
 <!-- Tech Stack Section -->
 <h3>🛠 Tech Stack & Tools</h3>
 
-- 💻 &nbsp; **Programming Languages:** Python, C++
+- 💻 &nbsp; **Programming Languages:** Python
 - 🌐 &nbsp; **Robotics & AI:** ROS/ROS2 | PyTorch | MoveIt | Gazebo | OpenCV | LangChain
 - 🛢 &nbsp; **Data & Backend:** | Docker | BeautifulSoup | requests |  Dify | PostgreSQL
 - 🔧 &nbsp; **Development Tools:** VS Code | Git | GitHub | Jupyter Notebook | Linux (Ubuntu)

@@ -37,15 +37,13 @@
   Feel free to reach out for collaborations, questions, or just a friendly chat!
 </p>
 
+
 <p align="center">
-  
   <br><br>
   <!-- Replace the [ ] links with your own links -->
   <a href="mailto:jolchmo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
   &nbsp;
   <a href="https://t.me/Jzxtd" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="50" alt="Telegram"/></a>
-  
-
 </p>
 
 <!-- Buy Me a Coffee / Support Me Section -->
@@ -58,7 +56,7 @@
 
 <p>
   <a href="Solana-address" target="_blank">
-    <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/sol.png" width="20" />
+    <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/sol.png" width="20"/>
   </a>
   <strong>SOL Address:</strong> <code>HFaGAh5UFaPX3v14kh3f3GqZXA2vUzJ7jkC7BYcnDAWa</code>
 </p>

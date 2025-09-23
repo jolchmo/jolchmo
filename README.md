@@ -32,8 +32,13 @@
 <!-- Social Links / Connect with Me -->
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+
+<p>
   Feel free to reach out for collaborations, questions, or just a friendly chat!
+</p>
+
+<p align="center">
+  
   <br><br>
   <!-- Replace the [ ] links with your own links -->
   <a href="mailto:jolchmo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
@@ -53,9 +58,9 @@
 
 <p>
   <a href="Solana-address" target="_blank">
-    <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/sol.png" width="20" style="vertical-align: middle;" />
+    <img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/sol.png" width="20" />
   </a>
   <strong>SOL Address:</strong> <code>HFaGAh5UFaPX3v14kh3f3GqZXA2vUzJ7jkC7BYcnDAWa</code>
 </p>
 <!-- Signature -->
-⭐️ From [jolchmo](https://github.com/jolchmo)
+⭐️ From <a href="https://github.com/jolchmo" target="_blank">jolchmo</a>

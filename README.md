@@ -4,7 +4,7 @@
 <h2> Hello there! I'm lch. 👋 </h2>
 
 
-<img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/JPG_to_GIF_Animation~1.gif"/>
+<img src="https://imgbed-hk.oss-cn-hongkong.aliyuncs.com/img/1758643813343_c4FhCqyRMBPYBUosgtG-n.png"/>
 
 <!-- About Me Section -->
 <h3> 🤖 About Me </h3>

@@ -23,11 +23,11 @@
 <br>
 
 <!-- GitHub Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jolchmo&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="jolchmo's Github Stats"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolchmo&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages"/>
-</p>
+</p> -->
 
 <!-- Social Links / Connect with Me -->
 <h3> 🤝🏻 Connect with Me </h3>
@@ -38,6 +38,9 @@
   <!-- Replace the [ ] links with your own links -->
   <a href="mailto:jolchmo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
   &nbsp;
+  <a href="https://t.me/Jzxtd" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="50" alt="Telegram"/></a>
+  
+
 </p>
 
 <!-- Buy Me a Coffee / Support Me Section -->

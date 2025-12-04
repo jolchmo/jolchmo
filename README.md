@@ -26,7 +26,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jolchmo&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="jolchmo's Github Stats"/>
   <!-- <br><br> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolchmo&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolchmo&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages"/> 
 </p>  -->
 
 <!-- Social Links / Connect with Me -->
